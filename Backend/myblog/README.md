@@ -1,10 +1,10 @@
-**Project Readme: Building a Blog Website with Java Spring Boot, Spring Security, MySQL, Redis, Docker, JPA...**
+**Project Readme: Building a Blog Website BACKEND with Java Spring Boot, Spring Security, MySQL, Redis, Docker, JPA...**
 
 ---
 
 ## Introduction
 
-Welcome to our blog website project! This document serves as a guide for developers who are interested in understanding and contributing to the development of our blog website built using Java Spring Boot, MySQL, Redis, and Docker.
+Welcome to our blog website backend part! This document serves as a guide for developers who are interested in understanding and contributing to the development of our blog website built using Java Spring Boot, MySQL, Redis, and Docker.
 
 ## Project Overview
 
